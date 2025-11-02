@@ -56,3 +56,5 @@
 2025-02-07 20:36:00 | DEBUG | repo=HandBrake | action=commit
 2025-03-20 11:08:00 | DEBUG | repo=HandBrake | action=commit
 2025-01-06 14:20:00 | WARN | repo=HandBrake | action=commit
+2025-06-08 11:54:00 | DEBUG | repo=HandBrake | action=edit | files=3
+2025-11-02 17:15:00 | DEBUG | repo=HandBrake | action=commit
